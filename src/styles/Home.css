@@ -1,0 +1,15 @@
+.home-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logout-button {
+  background-color: #f29b9b;
+  padding: 5px 20px 5px 20px;
+  border-radius: 10px;
+}
+
+.logout-button:hover {
+  background-color: #ffafa3;
+}

@@ -1,0 +1,22 @@
+.input-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-field {
+  width: 15rem;
+  height: 2rem;
+  font-family: "Inter", "Sans-serif";
+}
+
+.create-button {
+  background-color: #c9c9bf;
+  padding: 5px 10px 5px 10px;
+  border-radius: 10px;
+  margin-bottom: 1em;
+}
+
+.create-button:hover {
+  background-color: #efefe3;
+}
